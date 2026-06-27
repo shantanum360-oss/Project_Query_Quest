@@ -68,7 +68,7 @@ Query-Quest/
 │   ├── hospital_schema.sql
 │   ├── advanced_queries.sql
 │   ├── ER_Diagram.png
-│   ├── relational_schema.pdf
+│   ├── relational_schema.sql
 │   └── sample_inserts.sql
 │
 ├── Quick-Commerce-System/
@@ -76,7 +76,7 @@ Query-Quest/
 │   ├── quick_commerce_schema.sql
 │   ├── analytical_queries.sql
 │   ├── ER_Diagram.png
-│   ├── relational_schema.pdf
+│   ├── relational_schema.sql
 │   └── sample_inserts.sql
 │
 └── future-work.md
