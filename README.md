@@ -56,7 +56,7 @@ The repository currently includes:
 - Query Optimization Techniques
 
 ## 📂 Repository Structure
-
+'''
 Query-Quest/
 │
 ├── README.md
@@ -94,3 +94,4 @@ Query-Quest/
 │       └── sample_inserts.sql
 │
 └── future-work.md
+'''
