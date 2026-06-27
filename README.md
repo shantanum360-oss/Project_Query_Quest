@@ -56,42 +56,36 @@ The repository currently includes:
 - Query Optimization Techniques
 
 ## 📂 Repository Structure
-'''
+## Repository Structure
+
+```text
 Query-Quest/
 │
 ├── README.md
-│
+├── Assignments(for_basics)
 ├── Hospital-Management-System/
 │   ├── README.md
-│   │
 │   ├── schema/
 │   │   └── hospital_schema.sql
-│   │
 │   ├── queries/
 │   │   └── advanced_queries.sql
-│   │
 │   ├── docs/
 │   │   ├── ER_Diagram.png
 │   │   ├── relational_schema.pdf
-│   │
 │   └── sample_data/
 │       └── sample_inserts.sql
 │
 ├── Quick-Commerce-System/
 │   ├── README.md
-│   │
 │   ├── schema/
 │   │   └── quick_commerce_schema.sql
-│   │
 │   ├── queries/
 │   │   └── analytical_queries.sql
-│   │
 │   ├── docs/
 │   │   ├── ER_Diagram.png
 │   │   ├── relational_schema.pdf
-│   │
 │   └── sample_data/
 │       └── sample_inserts.sql
 │
 └── future-work.md
-'''
+```
