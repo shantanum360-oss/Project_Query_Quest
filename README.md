@@ -65,27 +65,19 @@ Query-Quest/
 ├── Assignments(for_basics)
 ├── Hospital-Management-System/
 │   ├── README.md
-│   ├── schema/
-│   │   └── hospital_schema.sql
-│   ├── queries/
-│   │   └── advanced_queries.sql
-│   ├── docs/
-│   │   ├── ER_Diagram.png
-│   │   ├── relational_schema.pdf
-│   └── sample_data/
-│       └── sample_inserts.sql
+│   ├── hospital_schema.sql
+│   ├── advanced_queries.sql
+│   ├── ER_Diagram.png
+│   ├── relational_schema.pdf
+│   └── sample_inserts.sql
 │
 ├── Quick-Commerce-System/
 │   ├── README.md
-│   ├── schema/
-│   │   └── quick_commerce_schema.sql
-│   ├── queries/
-│   │   └── analytical_queries.sql
-│   ├── docs/
-│   │   ├── ER_Diagram.png
-│   │   ├── relational_schema.pdf
-│   └── sample_data/
-│       └── sample_inserts.sql
+│   ├── quick_commerce_schema.sql
+│   ├── analytical_queries.sql
+│   ├── ER_Diagram.png
+│   ├── relational_schema.pdf
+│   └── sample_inserts.sql
 │
 └── future-work.md
 ```
